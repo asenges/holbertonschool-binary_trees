@@ -7,4 +7,5 @@ holbertonschool-binary_trees
 Collaborators
 <br>
 <a href="#">Danielle Serafin</a>
+<br>
 <a href="#">Alejandro Senges</a>
