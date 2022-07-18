@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_node - btree node
+ * binary_tree_node - Binary tree node
  * @parent: Ptr parent node
  * @value: int
  * Return: Pt new node
