@@ -1,3 +1,4 @@
 #!/bin/bash
 chmod -R 777 *
+betty *.h
 betty *.c
